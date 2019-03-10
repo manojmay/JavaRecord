@@ -1,0 +1,253 @@
+[
+			{
+				"language": "tamil",
+				"genre": "selfHelp",
+				"name": "Idlyaga Irungal",
+				"author": "Soma Valliyappan",
+				"publisher": "New Horizon Media Private Limited",
+				"payment": "COD eligible",
+				"pages": "104",
+				"_id": "1"
+			},
+			{
+				"language": "tamil",
+				"genre": "selfHelp",
+				"name": "Nee oru Thaniparavai",
+				"author": "APJ Abdul Kalam",
+				"publisher": "Punya Publishing",
+				"payment": "COD eligible",
+				"pages": "208",
+				"_id": "2"
+			},
+			{
+				"language": "tamil",
+				"genre": "selfHelp",
+				"name": "Thannai Thaan Ethikollal",
+				"author": "SirShree Tejpaki",
+				"publisher": "Narmadha Pathipagam",
+				"payment": "COD eligible",
+				"pages": "344",
+				"_id": "3"
+			},
+			{
+				"language": "tamil",
+				"genre": "fiction",
+				"name": "Vetri Thirunagar",
+				"author": "Akilan",
+				"publisher": "Tamil Puthakalayam",
+				"payment": "POD",
+				"pages": "528",
+				"_id": "4"
+			},
+			{
+				"language": "tamil",
+				"genre": "fiction",
+				"name": "Thanikkural",
+				"author": "Jeya mohan",
+				"publisher": "poonguzalivaanibam",
+				"payment": "POD",
+				"pages": "152",
+				"_id": "5"
+			},
+			{
+				"language": "tamil",
+				"genre": "non-fiction",
+				"name": "Yuga Puratchi",
+				"author": "Kalki",
+				"publisher": "Vaanathi",
+				"payment": "COD eligible",
+				"pages": "232",
+				"_id": "6"
+			},
+			{
+				"language": "tamil",
+				"genre": "non-fiction",
+				"name": "Pichaimoorthy Kavithakal",
+				"author": "Sandhya Pathippagam",
+				"publisher": "Sandhya Publications",
+				"payment": "POD",
+				"pages": "232",
+				"_id": "7"
+			},
+			{
+				"language": "english",
+				"genre": "selfHelp",
+				"name": "The Subtle Art of Not Giving a F*ck - A Counterintuitive Approach to Living a Good Life",
+				"author": "Mark Manson",
+				"publisher": "Harper",
+				"payment": "POD",
+				"pages": "224",
+				"_id": "8"
+			},
+			{
+				"language": "english",
+				"genre": "selfHelp",
+				"name": "The 5 AM Club : Own Your Morning, Elevate Your Life",
+				"author": "ROBIN SHARMA",
+				"publisher": "Jaico",
+				"payment": "COD eligible",
+				"pages": "336",
+				"_id": "9"
+			},
+			{
+				"language": "english",
+				"genre": "selfHelp",
+				"name": "Think & Grow Rich - Magic Formula for Success, Wealth and Wisdom",
+				"author": "Napolean Hill",
+				"publisher": "PRH INDIA LOCAL PRINT",
+				"payment": "POD",
+				"pages": "272",
+				"_id": "10"
+			},
+			{
+				"language": "englilsh",
+				"genre": "fiction",
+				"name": "The Counter-Memorial Impulse in Twentieth-Century English Fiction",
+				"author": "Henstra S",
+				"publisher": "Palgrave Macmillan",
+				"payment": "POD",
+				"pages": "182",
+				"_id": "11"
+			},
+			{
+				"language": "englilsh",
+				"genre": "fiction",
+				"name": "ANIMAL FARM",
+				"author": "George Orwell",
+				"publisher": "Rajan1923",
+				"payment": "COD eligible",
+				"pages": "200",
+				"_id": "12"
+			},
+			{
+				"language": "englilsh",
+				"genre": "fiction",
+				"name": "The Makers of English Fiction",
+				"author": "Dawson W J",
+				"publisher": "Forgotten Books",
+				"payment": "POD",
+				"pages": "322",
+				"_id": "13"
+			},
+			{
+				"language": "english",
+				"genre": "non-fiction",
+				"name": "Jim Corbett Omnibus",
+				"author": "Jim Corbett",
+				"publisher": "Rupa",
+				"payment": "POD",
+				"pages": "456",
+				"_id": "14"
+			},
+			{
+				"language": "english",
+				"genre": "non-fiction",
+				"name": "INDIAN NATIONALISM - The Essential Writings",
+				"author": "HABIB S. IRFAN",
+				"publisher": "Rupa",
+				"payment": "POD",
+				"pages": "296",
+				"_id": "15"
+			},
+			{
+				"language": "english",
+				"genre": "non-fiction",
+				"name": "The Very Best of R.K. Narayan - Selected Fiction and Non - Fiction",
+				"author": "Unknown",
+				"publisher": "Rupa",
+				"payment": "POD",
+				"pages": "238",
+				"_id": "16"
+			},
+			{
+				"language": "hindi",
+				"genre": "selfHelp",
+				"name": "Ati Parbhaawkari Logo Ki Saat Aadatei",
+				"author": "Covey Stephen R.",
+				"publisher": "Manjul",
+				"payment": "POD",
+				"pages": "120",
+				"_id": "17"
+			},
+			{
+				"language": "hindi",
+				"genre": "selfHelp",
+				"name": "Lokpriya Banane Ki Kalan",
+				"author": "Gabor Don",
+				"publisher": "Manjul",
+				"payment": "POD",
+				"pages": "175",
+				"_id": "18"
+			},
+			{
+				"language": "hindi",
+				"genre": "selfHelp",
+				"name": "Judo Jodo Jeeto",
+				"author": "Ujjawal Patni",
+				"publisher": "Diamond Books",
+				"payment": "POD",
+				"pages": "208",
+				"_id": "19"
+			},
+			{
+				"language": "hindi",
+				"genre": "fiction",
+				"name": "Banaras Talkies",
+				"author": "Vyas Satya",
+				"publisher": "Hind Yugm",
+				"payment": "",
+				"pages": "176",
+				"_id": "20"
+			},
+			{
+				"language": "hindi",
+				"genre": "fiction",
+				"name": "2 States",
+				"author": "Chetan Bhagat",
+				"publisher": "Rupa",
+				"payment": "COD eligible",
+				"pages": "328",
+				"_id": "21"
+			},
+			{
+				"language": "hindi",
+				"genre": "fiction",
+				"name": "Koi Deewana Kehta Hai",
+				"author": "Vishwas Kumar>",
+				"publisher": "Diamond Books",
+				"payment": "POD",
+				"pages": "128",
+				"_id": "22"
+			},
+			{
+				"language": "hindi",
+				"genre": "non-fiction",
+				"name": "Ramta Jogi",
+				"author": "Prateek Bhaarat Palod (Darpan)",
+				"publisher": "Educreation Publishing",
+				"payment": "POD",
+				"pages": "187",
+				"_id": "23"
+			},
+			{
+				"language": "hindi",
+				"genre": "non-fiction",
+				"name": "Crystal",
+				"author": "Joshi & Choudhary",
+				"publisher": "Acupressure Health Care System",
+				"payment": "POD",
+				"pages": "200",
+				"_id": "24"
+			},
+			{
+				"language": "hindi",
+				"genre": "non-fiction",
+				"name": "Taj Mahal Ya Mummy Mahal",
+				"author": "Afsar Ahmed",
+				"publisher": "Evoco Publication",
+				"payment": "COD eligible",
+				"pages": "175",
+				"_id": "25"
+			}
+]
+	
